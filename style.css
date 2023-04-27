@@ -1,0 +1,62 @@
+
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: 'Itim', cursive;
+    font-size:large;
+}
+.agecal{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 200px;
+    border-radius: 15px;
+    border-color: ;
+    background-color: #0E2F2F;
+    height: 350px;
+
+}
+body{
+    background-color: aqua;
+}
+h2{
+    text-align: center;
+   
+    text-shadow: 2px 2px 1px rgb(91, 92, 95);
+    color:  rgb(247, 173, 82);
+    margin-bottom: 40px;
+}
+form{
+    margin-left: 350px;
+    
+  
+}
+input[type="date"]{
+    background-color: rgb(83,83,82);
+    margin-bottom:45px;
+    border-radius: 8px;
+}
+p{
+    margin-left: 350px;
+    margin-top: 30px;
+    
+   
+}
+#a{
+    border-radius: 8px;
+    background-color: rgb(247, 173, 82);
+    padding: 8px 8px 8px 8px ;
+
+}
+#a:hover{
+    background-color: rgb(83,83,82);
+}
+.agediv2{
+    margin-left: 380px;
+    margin-top: 60px;
+    font-size: x-large;
+
+}
+
